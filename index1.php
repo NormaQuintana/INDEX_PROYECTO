@@ -13,6 +13,7 @@
         <a class="nav-link text-black" href="materias.php">Carreras</a>
         <a class="nav-link text-black" href="materiasCarrera.php">Materias por Carrera</a>
         <a class="nav-link text-black" href="prueba.php">Historial de los Alumnos</a>
+        <a class="nav-link text-black" href="reconocidos.php">Alumnos destacados</a>
     </nav>
 
     
