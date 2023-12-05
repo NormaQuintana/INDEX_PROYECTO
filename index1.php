@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fei UV</title>
-</head>
+<head>
 <body>
 
     <h2>Bienvenido a la Oferta Academica de la FEI</h2>
@@ -16,5 +16,5 @@
     </nav>
 
     
-</body>
-</html>
+<body>
+<html>
